@@ -55,5 +55,7 @@ You can download Xcode from [developer.apple.com/technologies/tools.](https://de
 28. [Harsh Soni](http://github.com/harshh06)
 29. [Rishabh Rationalist](https://github.com/Rishabh2801)
 30. [Bevan V Thomas](https://github.com/Bevin7)
-31. [ishak hari](https://github.com/ishakhari)
+31. [Anjali Kumari](https://github.com/Anjalikumari15) 
+32. [Sourov Sarkar](https://github.com/Leoperon)
+33. [ishak hari](https://github.com/ishakhari)
 
